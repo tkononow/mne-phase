@@ -5,8 +5,8 @@
 .. |Travis| image:: https://travis-ci.org/brainthemind/mne-phase.svg?branch=master
 .. _Travis: https://travis-ci.org/brainthemind/mne-phase
 
-.. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/4qrnsuohh5g53i5u?svg=true
-.. _AppVeyor: https://ci.appveyor.com/project/brainthemind/mne-phase
+.. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/fdbt4h1w9r9ax5ca?svg=true
+.. _AppVeyor: https://ci.appveyor.com/project/SophieHerbst/mne-phase
 
 .. |Codecov| image:: https://codecov.io/gh/brainthemind/mne-phase/branch/master/graph/badge.svg
 .. _Codecov: https://codecov.io/gh/brainthemind/mne-phase
